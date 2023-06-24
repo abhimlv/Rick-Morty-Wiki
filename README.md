@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Screenshot
+![alt text](https://github.com/abhimlv/Rick-Morty_Wiki/blob/master/screenshot1.jpg)
+
+![alt text](https://github.com/abhimlv/Rick-Morty_Wiki/blob/master/screenshot2.jpg)
+
+![alt text](https://github.com/abhimlv/Rick-Morty_Wiki/blob/master/screenshot3.jpg)
+
+![alt text](https://github.com/abhimlv/Rick-Morty_Wiki/blob/master/screenshot4.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
